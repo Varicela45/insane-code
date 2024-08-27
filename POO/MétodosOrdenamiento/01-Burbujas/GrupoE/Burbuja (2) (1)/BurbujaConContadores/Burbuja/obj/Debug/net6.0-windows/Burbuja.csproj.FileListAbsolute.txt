@@ -1,0 +1,43 @@
+C:\Users\canoa\OneDrive\Estructura de Datos\Burbuja\Burbuja\bin\Debug\net6.0-windows\Burbuja.exe
+C:\Users\canoa\OneDrive\Estructura de Datos\Burbuja\Burbuja\bin\Debug\net6.0-windows\Burbuja.deps.json
+C:\Users\canoa\OneDrive\Estructura de Datos\Burbuja\Burbuja\bin\Debug\net6.0-windows\Burbuja.runtimeconfig.json
+C:\Users\canoa\OneDrive\Estructura de Datos\Burbuja\Burbuja\bin\Debug\net6.0-windows\Burbuja.dll
+C:\Users\canoa\OneDrive\Estructura de Datos\Burbuja\Burbuja\bin\Debug\net6.0-windows\Burbuja.pdb
+C:\Users\canoa\OneDrive\Estructura de Datos\Burbuja\Burbuja\obj\Debug\net6.0-windows\Burbuja.Form1.resources
+C:\Users\canoa\OneDrive\Estructura de Datos\Burbuja\Burbuja\obj\Debug\net6.0-windows\Burbuja.csproj.GenerateResource.cache
+C:\Users\canoa\OneDrive\Estructura de Datos\Burbuja\Burbuja\obj\Debug\net6.0-windows\Burbuja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canoa\OneDrive\Estructura de Datos\Burbuja\Burbuja\obj\Debug\net6.0-windows\Burbuja.AssemblyInfoInputs.cache
+C:\Users\canoa\OneDrive\Estructura de Datos\Burbuja\Burbuja\obj\Debug\net6.0-windows\Burbuja.AssemblyInfo.cs
+C:\Users\canoa\OneDrive\Estructura de Datos\Burbuja\Burbuja\obj\Debug\net6.0-windows\Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\canoa\OneDrive\Estructura de Datos\Burbuja\Burbuja\obj\Debug\net6.0-windows\Burbuja.dll
+C:\Users\canoa\OneDrive\Estructura de Datos\Burbuja\Burbuja\obj\Debug\net6.0-windows\refint\Burbuja.dll
+C:\Users\canoa\OneDrive\Estructura de Datos\Burbuja\Burbuja\obj\Debug\net6.0-windows\Burbuja.pdb
+C:\Users\canoa\OneDrive\Estructura de Datos\Burbuja\Burbuja\obj\Debug\net6.0-windows\Burbuja.genruntimeconfig.cache
+C:\Users\canoa\OneDrive\Estructura de Datos\Burbuja\Burbuja\obj\Debug\net6.0-windows\ref\Burbuja.dll
+C:\Users\Usuario\Downloads\Burbuja\Burbuja\obj\Debug\net6.0-windows\Burbuja.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Burbuja\Burbuja\obj\Debug\net6.0-windows\Burbuja.Form1.resources
+C:\Users\Usuario\Downloads\Burbuja\Burbuja\obj\Debug\net6.0-windows\Burbuja.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Burbuja\Burbuja\obj\Debug\net6.0-windows\Burbuja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Burbuja\Burbuja\obj\Debug\net6.0-windows\Burbuja.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Burbuja\Burbuja\obj\Debug\net6.0-windows\Burbuja.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Burbuja\Burbuja\obj\Debug\net6.0-windows\Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Burbuja\Burbuja\obj\Debug\net6.0-windows\Burbuja.dll
+C:\Users\Usuario\Downloads\Burbuja\Burbuja\obj\Debug\net6.0-windows\ref\Burbuja.dll
+C:\Users\Usuario\Downloads\Burbuja\Burbuja\obj\Debug\net6.0-windows\Burbuja.pdb
+C:\Users\alexi\Downloads\Burbuja (2) (1)\BurbujaConContadores\Burbuja\bin\Debug\net6.0-windows\Burbuja.exe
+C:\Users\alexi\Downloads\Burbuja (2) (1)\BurbujaConContadores\Burbuja\bin\Debug\net6.0-windows\Burbuja.deps.json
+C:\Users\alexi\Downloads\Burbuja (2) (1)\BurbujaConContadores\Burbuja\bin\Debug\net6.0-windows\Burbuja.runtimeconfig.json
+C:\Users\alexi\Downloads\Burbuja (2) (1)\BurbujaConContadores\Burbuja\bin\Debug\net6.0-windows\Burbuja.dll
+C:\Users\alexi\Downloads\Burbuja (2) (1)\BurbujaConContadores\Burbuja\bin\Debug\net6.0-windows\Burbuja.pdb
+C:\Users\alexi\Downloads\Burbuja (2) (1)\BurbujaConContadores\Burbuja\obj\Debug\net6.0-windows\Burbuja.csproj.AssemblyReference.cache
+C:\Users\alexi\Downloads\Burbuja (2) (1)\BurbujaConContadores\Burbuja\obj\Debug\net6.0-windows\Burbuja.Form1.resources
+C:\Users\alexi\Downloads\Burbuja (2) (1)\BurbujaConContadores\Burbuja\obj\Debug\net6.0-windows\Burbuja.csproj.GenerateResource.cache
+C:\Users\alexi\Downloads\Burbuja (2) (1)\BurbujaConContadores\Burbuja\obj\Debug\net6.0-windows\Burbuja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Downloads\Burbuja (2) (1)\BurbujaConContadores\Burbuja\obj\Debug\net6.0-windows\Burbuja.AssemblyInfoInputs.cache
+C:\Users\alexi\Downloads\Burbuja (2) (1)\BurbujaConContadores\Burbuja\obj\Debug\net6.0-windows\Burbuja.AssemblyInfo.cs
+C:\Users\alexi\Downloads\Burbuja (2) (1)\BurbujaConContadores\Burbuja\obj\Debug\net6.0-windows\Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Downloads\Burbuja (2) (1)\BurbujaConContadores\Burbuja\obj\Debug\net6.0-windows\Burbuja.dll
+C:\Users\alexi\Downloads\Burbuja (2) (1)\BurbujaConContadores\Burbuja\obj\Debug\net6.0-windows\refint\Burbuja.dll
+C:\Users\alexi\Downloads\Burbuja (2) (1)\BurbujaConContadores\Burbuja\obj\Debug\net6.0-windows\Burbuja.pdb
+C:\Users\alexi\Downloads\Burbuja (2) (1)\BurbujaConContadores\Burbuja\obj\Debug\net6.0-windows\Burbuja.genruntimeconfig.cache
+C:\Users\alexi\Downloads\Burbuja (2) (1)\BurbujaConContadores\Burbuja\obj\Debug\net6.0-windows\ref\Burbuja.dll
