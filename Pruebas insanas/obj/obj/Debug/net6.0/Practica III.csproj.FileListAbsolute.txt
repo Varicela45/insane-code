@@ -1,0 +1,30 @@
+C:\Users\m1l0h\Desktop\Codigos\Practica III\Practica III\obj\Debug\net6.0\Practica III.csproj.AssemblyReference.cache
+C:\Users\m1l0h\Desktop\Codigos\Practica III\Practica III\obj\Debug\net6.0\Practica III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m1l0h\Desktop\Codigos\Practica III\Practica III\obj\Debug\net6.0\Practica III.AssemblyInfoInputs.cache
+C:\Users\m1l0h\Desktop\Codigos\Practica III\Practica III\obj\Debug\net6.0\Practica III.AssemblyInfo.cs
+C:\Users\m1l0h\Desktop\Codigos\Practica III\Practica III\obj\Debug\net6.0\Practica III.csproj.CoreCompileInputs.cache
+C:\Users\m1l0h\Desktop\Codigos\Practica III\Practica III\bin\Debug\net6.0\Practica III.exe
+C:\Users\m1l0h\Desktop\Codigos\Practica III\Practica III\bin\Debug\net6.0\Practica III.deps.json
+C:\Users\m1l0h\Desktop\Codigos\Practica III\Practica III\bin\Debug\net6.0\Practica III.runtimeconfig.json
+C:\Users\m1l0h\Desktop\Codigos\Practica III\Practica III\bin\Debug\net6.0\Practica III.dll
+C:\Users\m1l0h\Desktop\Codigos\Practica III\Practica III\bin\Debug\net6.0\Practica III.pdb
+C:\Users\m1l0h\Desktop\Codigos\Practica III\Practica III\obj\Debug\net6.0\Practica III.dll
+C:\Users\m1l0h\Desktop\Codigos\Practica III\Practica III\obj\Debug\net6.0\refint\Practica III.dll
+C:\Users\m1l0h\Desktop\Codigos\Practica III\Practica III\obj\Debug\net6.0\Practica III.pdb
+C:\Users\m1l0h\Desktop\Codigos\Practica III\Practica III\obj\Debug\net6.0\Practica III.genruntimeconfig.cache
+C:\Users\m1l0h\Desktop\Codigos\Practica III\Practica III\obj\Debug\net6.0\ref\Practica III.dll
+C:\wamp64\www\insane-code\Pruebas insanas\obj\bin\Debug\net6.0\Practica III.exe
+C:\wamp64\www\insane-code\Pruebas insanas\obj\bin\Debug\net6.0\Practica III.deps.json
+C:\wamp64\www\insane-code\Pruebas insanas\obj\bin\Debug\net6.0\Practica III.runtimeconfig.json
+C:\wamp64\www\insane-code\Pruebas insanas\obj\bin\Debug\net6.0\Practica III.dll
+C:\wamp64\www\insane-code\Pruebas insanas\obj\bin\Debug\net6.0\Practica III.pdb
+C:\wamp64\www\insane-code\Pruebas insanas\obj\obj\Debug\net6.0\Practica III.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\insane-code\Pruebas insanas\obj\obj\Debug\net6.0\Practica III.AssemblyInfoInputs.cache
+C:\wamp64\www\insane-code\Pruebas insanas\obj\obj\Debug\net6.0\Practica III.AssemblyInfo.cs
+C:\wamp64\www\insane-code\Pruebas insanas\obj\obj\Debug\net6.0\Practica III.csproj.CoreCompileInputs.cache
+C:\wamp64\www\insane-code\Pruebas insanas\obj\obj\Debug\net6.0\Practica III.sourcelink.json
+C:\wamp64\www\insane-code\Pruebas insanas\obj\obj\Debug\net6.0\Practica III.dll
+C:\wamp64\www\insane-code\Pruebas insanas\obj\obj\Debug\net6.0\refint\Practica III.dll
+C:\wamp64\www\insane-code\Pruebas insanas\obj\obj\Debug\net6.0\Practica III.pdb
+C:\wamp64\www\insane-code\Pruebas insanas\obj\obj\Debug\net6.0\Practica III.genruntimeconfig.cache
+C:\wamp64\www\insane-code\Pruebas insanas\obj\obj\Debug\net6.0\ref\Practica III.dll
