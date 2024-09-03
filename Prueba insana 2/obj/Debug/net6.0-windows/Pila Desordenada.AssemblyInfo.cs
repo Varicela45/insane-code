@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pila Desordenada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+582b83937faff6e0927ebaa7d9826e1b9e1b6d03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fba6651447204d2a0b7a8a7898a6680f42c23d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pila Desordenada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pila Desordenada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
