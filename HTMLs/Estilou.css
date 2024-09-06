@@ -1,5 +1,31 @@
-b{
+#Ob1{
+    color:brown;
+}
 
-color:aquamarine
+#PerroComiendoCereal{
 
+    
+    text-align: justify;
+    padding:5%;
+    
+    background-color: rgb(132, 202, 194); /* Color de fondo que incluye el padding */
+    border: 1px solid black; /* Borde negro para delimitar la caja */
+    color: rgb(30, 30, 61); /* Color del texto */
+
+}
+
+#cajaConImagen {
+    padding: 100px; /* Espacio interno alrededor del contenido */
+    background-image: url('https://cdn.milenio.com/uploads/media/2020/04/04/perrito-comiendo-cereal-facebook.jpg'); /* Imagen de fondo */
+    background-size: cover; /* Ajusta la imagen para cubrir el área del div */
+    background-position: center; /* Centra la imagen dentro del div */
+    color: white; /* Color del texto */
+    border: 1px solid black; /* Borde negro para delimitar la caja */
+}
+
+#cajita{
+    text-align: justify;
+    display: inline-block;
+    width: 90px;
+    border: 1px solid black;
 }
